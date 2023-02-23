@@ -1,6 +1,4 @@
-## Hei alle sammen 👋
-
-- Mitt navn er ✨ **Jules Ladeiro** ✨ og jeg er IT-utvikler!
+## Bienvenue 👽
 
 |     |         |           |          |
 | --- | ------- | --------- | -------- |
